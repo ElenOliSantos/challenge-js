@@ -35,6 +35,31 @@
 
 //3. Tempo de download
 
-let arquive = Number(prompt("Digite o tamanho do arquivo em GB:"));
+// let arquive = Number(prompt("Digite o tamanho do arquivo em GB:"));
+
+// let internet = Number(prompt("Digite a velocidade da internet em Mbps:"))
+
+// if (arquive > 0 && internet > 0) {
+//     let arquive_mbps = arquive * 8192 // Para conversão em Megabits e fazer o tamanho correto do arquivo
+//     let result = arquive_mbps / internet
+
+//     let minutes = Math.floor(result / 60) // Transformar em minuto
+//     let seconds = Math.round(result % 60); // Ter os segundos aproximado
+
+//     console.log(`O tempo estimado para download é: ${minutes} minutos e ${seconds} segundos.`);   
+// }
+// else {
+//     console.log("Digite um valor válido!");
+// }
+
+
+//4. Troco do caixa
+
+// let value = Number(prompt("Digite o valor da compra:"))
+// let amount_gained = Number(prompt("Digite o valor que foi pago:"))
+
+// let change = value - amount_gained
+
+
 
 
